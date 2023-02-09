@@ -1,2 +1,1 @@
-# web-compro
-Web Company Profile
+https://fahmiarifiansyah.github.io/web-compro/
